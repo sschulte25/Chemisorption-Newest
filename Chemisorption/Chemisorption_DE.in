@@ -1,0 +1,11 @@
+!    Reaction                                                                                EDiss(K)
+BCO                               -> BC         BO                                           1.31e+04   Kress/Tielens 2001 Fe
+BOH                               -> BO         BH                                           1.19e+04   Kress/Tielens 2001 Fe
+BCH                               -> BC         BH                                           1.17e+04   Kress/Tielens 2001 Fe
+BCH2                              -> BCH        BH                                           1.20e+04   Kress/Tielens 2001 Fe
+BCH3                              -> BCH2       BH                                           1.07e+04   Kress/Tielens 2001 Fe
+BCH2                              -> BC         BH2                                          1.00e+04   guess
+BCH2                              -> BC         BH         BH                                1.00e+04   guess
+BCH3                              -> BH2        BC         BH                                1.00e+04   guess
+BCH3                              -> BCH        BH         BH                                1.00e+04   guess
+BCH3                              -> BCH        BH2                                          1.00e+04   guess 
